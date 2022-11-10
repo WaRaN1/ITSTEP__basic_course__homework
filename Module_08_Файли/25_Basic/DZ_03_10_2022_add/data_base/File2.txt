@@ -1,0 +1,4 @@
+The count() is a built-in function in Python. (8) 
+It will return the total count of a given element in a list. (13) 
+The count() function is used to count elements on a list as well as a string. (16) 
+In this Python tutorial, you will learn: (7) 

@@ -1,0 +1,17 @@
+{
+  "Ivanov Oleg": {
+    "Name": "Ivanov Oleg",
+    "Age": "20",
+    "Work": "teacher"
+  },
+  "Iidorov Max": {
+    "Name": "Iidorov Max",
+    "Age": "40",
+    "Work": "Boss"
+  },
+  "Kenobi Obi-Wan": {
+    "Name": "Kenobi Obi-Wan",
+    "Age": "20",
+    "Work": "BigBoss"
+  }
+}

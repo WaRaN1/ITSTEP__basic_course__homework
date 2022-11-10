@@ -1,0 +1,5 @@
+list_1 = input("Enter you list\n").split()
+first, last  = list_1.pop(0), list_1.pop(-1)
+list_1.insert(0, last)
+list_1. append(first)
+print(list_1)
