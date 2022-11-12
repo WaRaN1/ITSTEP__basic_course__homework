@@ -2,7 +2,9 @@
 
 - ## Task №1 _("Introduction to Selenium")_
   - ### __1.1__
-    - Create an iterator that outputs the first n prime numbers.
+    - read the names of comics and authors from the website 
+      https://www.marvel.com/comics?&options%5Boffset%5D=0&totalcount=12 
+      and write them to a file
 #
 #
 #
@@ -10,5 +12,6 @@
 
 - ## Завдання №1 _("Introduction to Selenium")_
   - ### __1.1__
-    - Створити ітератор що виводить перші n простих чисел.
+    - з сайту https://www.marvel.com/comics?&options%5Boffset%5D=0&totalcount=12 
+      зчитати назви коміксів і авторів, та записати в файл
  
