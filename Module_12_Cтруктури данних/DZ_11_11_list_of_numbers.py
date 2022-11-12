@@ -1,5 +1,3 @@
-
-
 def num(numbers):
     return [i for i in range(1, numbers + 1)]
 
