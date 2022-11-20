@@ -1,4 +1,4 @@
-# Module 12. _Introduction_to_Selenium_
+# Module 13. _Introduction_to_Selenium_
 
 - ## Task №1 
   - ### __1.1__ _(Hero_and_autor)_
@@ -12,7 +12,7 @@
 #
 #
 #
-# Модуль 12. _Вступ до Selenium_
+# Модуль 13. _Вступ до Selenium_
 
 - ## Завдання №1 _("Introduction to Selenium")_
   - ### __1.1__ _(Hero_and_autor)_
