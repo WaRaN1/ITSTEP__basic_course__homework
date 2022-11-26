@@ -22,6 +22,11 @@
       - identy,
       - known relatives.
     - Save information to a TXT file using Python methods.
+
+- ## Task №4
+  - ### __4.1__ _(Hero_info)_
+    - using silenium, send me a letter to 
+      sasha.ozerov98@gmail.com via microsoft outlook
 #
 #
 #
@@ -48,3 +53,8 @@
       - identy,
       - known relatives.
     - Збережіть інформацію у файлі TXT методами Python.
+
+- ## Завдання №4
+  - ### __4.1__ _(Automated_messages)_
+    - за допомогою silenium надіслати мені лист на пошту 
+      sasha.ozerov98@gmail.com через outlook microsoft
