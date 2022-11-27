@@ -27,6 +27,13 @@
   - ### __4.1__ _(Hero_info)_
     - using silenium, send me a letter to 
       sasha.ozerov98@gmail.com via microsoft outlook
+
+- ## Task №5
+  - ### __5.1__ _(LARDI_Selection_of_transportation)_
+    - Create an application for cargo selection in a logistics company
+    - Add the ability to enter cities in the cargo search application on the website https://lardi-trans.ua/
+    - Collect information about the cargo
+    - Add filtering by price
 #
 #
 #
@@ -58,3 +65,11 @@
   - ### __4.1__ _(Automated_messages)_
     - за допомогою silenium надіслати мені лист на пошту 
       sasha.ozerov98@gmail.com через outlook microsoft
+
+- ## Завдання №5
+  - ### __5.1__ _(LARDI_Selection_of_transportation)_
+    - Створити додаток для підбору вантажу у логістичній компанії
+    - Додати можливість вводити міста в додатку для пошуку вантажів на сайті https://lardi-trans.ua/
+    - Зібрати інформацію про вантаж
+    - Додати фільтрацію за ціною
+
